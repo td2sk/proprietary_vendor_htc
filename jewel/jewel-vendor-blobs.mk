@@ -42,6 +42,8 @@ PRODUCT_COPY_FILES += \
   vendor/htc/jewel/proprietary/bin/zchgd:system/bin/zchgd \
   vendor/htc/jewel/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
   vendor/htc/jewel/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
+  vendor/htc/jewel/proprietary/lib/libwvm.so:system/lib/libwvm.so \
+  vendor/htc/jewel/proprietary/lib/libWVStreamControlAPI_L3.so:system/lib/libWVStreamControlAPI_L3.so \
   vendor/htc/jewel/proprietary/lib/libmpl.so:system/lib/libmpl.so \
   vendor/htc/jewel/proprietary/lib/libmlplatform.so:system/lib/libmlplatform.so \
   vendor/htc/jewel/proprietary/lib/libmllite.so:system/lib/libmllite.so \
