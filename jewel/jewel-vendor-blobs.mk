@@ -117,4 +117,5 @@ PRODUCT_COPY_FILES += \
   vendor/htc/jewel/proprietary/lib/libnetutils.so:system/lib/libnetutils.so \
   vendor/htc/jewel/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
   vendor/htc/jewel/proprietary/lib/hw/sensors.jet.so:system/lib/hw/sensors.jet.so \
-  vendor/htc/jewel/proprietary/lib/libv8.so:system/lib/libv8.so
+  vendor/htc/jewel/proprietary/lib/libv8.so:system/lib/libv8.so \
+  vendor/htc/jewel/proprietary/lib/libsurfaceflinger_client.so:system/lib/libsurfaceflinger_client.so \
