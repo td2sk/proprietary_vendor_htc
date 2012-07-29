@@ -61,6 +61,8 @@ PRODUCT_COPY_FILES += \
   vendor/htc/jewel/proprietary/lib/hw/camera.msm8960.so:system/lib/hw/camera.msm8960.so \
   vendor/htc/jewel/proprietary/lib/libcameraface.so:system/lib/libcameraface.so \
   vendor/htc/jewel/proprietary/lib/libcamerapp.so:system/lib/libcamerapp.so \
+  vendor/htc/jewel/proprietary/lib/libsurfaceflinger_client.so:system/lib/libsurfaceflinger_client.so \
+  vendor/htc/jewel/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
   vendor/htc/jewel/proprietary/lib/libcam_oem_plugin.so:system/lib/libcam_oem_plugin.so \
   vendor/htc/jewel/proprietary/lib/libDxOAF.so:system/lib/libDxOAF.so \
   vendor/htc/jewel/proprietary/lib/libgemini.so:system/lib/libgemini.so \
