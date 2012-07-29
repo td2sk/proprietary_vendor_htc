@@ -17,6 +17,7 @@
 # Prebuilt libraries that are needed to build open-source libraries
 PRODUCT_COPY_FILES += \
 	vendor/htc/jewel/proprietary/lib/libacdbloader.so:obj/lib/libacdbloader.so \
+	vendor/htc/jewel/proprietary/lib/libril.so:obj/lib/libril.so \
 	vendor/htc/jewel/proprietary/lib/libv8.so:obj/lib/libv8.so
 
 PRODUCT_COPY_FILES += \
@@ -107,6 +108,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/jewel/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
   vendor/htc/jewel/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
   vendor/htc/jewel/proprietary/lib/libril.so:system/lib/libril.so \
+  vendor/htc/jewel/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
   vendor/htc/jewel/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
   vendor/htc/jewel/proprietary/lib/libnetutils.so:system/lib/libnetutils.so \
   vendor/htc/jewel/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
