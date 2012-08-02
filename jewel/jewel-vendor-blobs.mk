@@ -48,7 +48,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc/jewel/proprietary/lib/libmlplatform.so:system/lib/libmlplatform.so \
   vendor/htc/jewel/proprietary/lib/libmllite.so:system/lib/libmllite.so \
   vendor/htc/jewel/proprietary/lib/libimu.so:system/lib/libimu.so \
-  vendor/htc/jewel/proprietary/lib/hw/lights.msm8960.so:system/lib/hw/lights.msm8960.so \
   vendor/htc/jewel/proprietary/lib/libMLTransition.so:system/lib/libMLTransition.so \
   vendor/htc/jewel/proprietary/lib/libchromatix_s5k3h2yx_default_video.so:system/lib/libchromatix_s5k3h2yx_default_video.so \
   vendor/htc/jewel/proprietary/lib/libchromatix_s5k3h2yx_hdr.so:system/lib/libchromatix_s5k3h2yx_hdr.so \
@@ -117,5 +116,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/jewel/proprietary/lib/libnetutils.so:system/lib/libnetutils.so \
   vendor/htc/jewel/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
   vendor/htc/jewel/proprietary/lib/hw/sensors.jet.so:system/lib/hw/sensors.jet.so \
+  vendor/htc/jewel/proprietary/lib/hw/nfc.jet.so:system/lib/hw/nfc.jet.so \
   vendor/htc/jewel/proprietary/lib/libv8.so:system/lib/libv8.so \
   vendor/htc/jewel/proprietary/lib/libsurfaceflinger_client.so:system/lib/libsurfaceflinger_client.so \
+  vendor/htc/jewel/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so
