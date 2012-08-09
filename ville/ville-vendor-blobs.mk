@@ -66,6 +66,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/ville/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
   vendor/htc/ville/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
   vendor/htc/ville/proprietary/lib/libgsl.so:system/lib/libgsl.so \
+  vendor/htc/ville/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
   vendor/htc/ville/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
   vendor/htc/ville/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
   vendor/htc/ville/proprietary/lib/libgps.so:system/lib/libgps.so \
@@ -80,7 +81,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc/ville/proprietary/lib/libmmparser_divxdrmlib.so:system/lib/libmmparser_divxdrmlib.so \
   vendor/htc/ville/proprietary/lib/libwvm.so:system/lib/libwvm.so \
   vendor/htc/ville/proprietary/lib/libWVStreamControlAPI_L3.so:system/lib/libWVStreamControlAPI_L3.so \
-  vendor/htc/ville/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
   vendor/htc/ville/proprietary/lib/libdiag.so:system/lib/libdiag.so \
   vendor/htc/ville/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
   vendor/htc/ville/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
