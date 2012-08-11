@@ -16,8 +16,7 @@
 
 # Prebuilt libraries that are needed to build open-source libraries
 PRODUCT_COPY_FILES += \
-	vendor/htc/ville/proprietary/lib/libacdbloader.so:obj/lib/libacdbloader.so \
-	vendor/htc/ville/proprietary/lib/libv8.so:obj/lib/libv8.so
+	vendor/htc/ville/proprietary/lib/libacdbloader.so:obj/lib/libacdbloader.so
 
 PRODUCT_COPY_FILES += \
   vendor/htc/ville/proprietary/etc/agps_rm:system/etc/agps_rm \
@@ -45,7 +44,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc/ville/proprietary/lib/hw/camera.msm8960.so:system/lib/hw/camera.msm8960.so \
   vendor/htc/ville/proprietary/lib/libcameraface.so:system/lib/libcameraface.so \
   vendor/htc/ville/proprietary/lib/libcamerapp.so:system/lib/libcamerapp.so \
-  vendor/htc/ville/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
   vendor/htc/ville/proprietary/lib/libcam_oem_plugin.so:system/lib/libcam_oem_plugin.so \
   vendor/htc/ville/proprietary/lib/libDxOAF.so:system/lib/libDxOAF.so \
   vendor/htc/ville/proprietary/lib/libgemini.so:system/lib/libgemini.so \
@@ -69,12 +67,10 @@ PRODUCT_COPY_FILES += \
   vendor/htc/ville/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
   vendor/htc/ville/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
   vendor/htc/ville/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
-  vendor/htc/ville/proprietary/lib/libgps.so:system/lib/libgps.so \
   vendor/htc/ville/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
   vendor/htc/ville/proprietary/lib/libloc_adapter.so:system/lib/libloc_adapter.so \
   vendor/htc/ville/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
   vendor/htc/ville/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
-  vendor/htc/ville/proprietary/lib/libloc_ext.so:system/lib/libloc_ext.so \
   vendor/htc/ville/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
   vendor/htc/ville/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
   vendor/htc/ville/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
@@ -97,5 +93,4 @@ PRODUCT_COPY_FILES += \
   vendor/htc/ville/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
   vendor/htc/ville/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
   vendor/htc/ville/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
-  vendor/htc/ville/proprietary/lib/hw/sensors.ville.so:system/lib/hw/sensors.ville.so \
-  vendor/htc/ville/proprietary/lib/libv8.so:system/lib/libv8.so
+  vendor/htc/ville/proprietary/lib/hw/sensors.ville.so:system/lib/hw/sensors.ville.so
