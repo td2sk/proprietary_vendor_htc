@@ -85,12 +85,10 @@ PRODUCT_COPY_FILES += \
   vendor/htc/jewel/proprietary/lib/libsc-a3xx.so:system/lib/libsc-a3xx.so \
   vendor/htc/jewel/proprietary/lib/libtime_genoff.so:system/lib/libtime_genoff.so \
   vendor/htc/jewel/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
-  vendor/htc/jewel/proprietary/lib/libgps.so:system/lib/libgps.so \
   vendor/htc/jewel/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
   vendor/htc/jewel/proprietary/lib/libloc_adapter.so:system/lib/libloc_adapter.so \
   vendor/htc/jewel/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
   vendor/htc/jewel/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
-  vendor/htc/jewel/proprietary/lib/libloc_ext.so:system/lib/libloc_ext.so \
   vendor/htc/jewel/proprietary/etc/agps_rm:system/etc/agps_rm \
   vendor/htc/jewel/proprietary/lib/libgsl.so:system/lib/libgsl.so \
   vendor/htc/jewel/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
